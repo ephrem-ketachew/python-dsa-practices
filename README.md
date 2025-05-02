@@ -24,8 +24,8 @@ Unlike competitive coding, this repo focuses on **core understanding** of DSA co
 - [x] Sorting Algorithms (Bubble, Merge)
 - [x] Recursion
 - [x] Searching Algorithms
-- [ ] Graphs
-- [ ] Dynamic Programming
+- [x] Graphs
+- [x] Dynamic Programming
 
 ---
 
