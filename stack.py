@@ -3,7 +3,7 @@ class Node:
         self.value = value
         self.next = None
         
-class LinkedList:
+class Stack:
     def __init__(self, value):
         new_node = Node(value)
         self.top = new_node
