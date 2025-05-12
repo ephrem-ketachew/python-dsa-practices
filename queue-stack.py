@@ -5,7 +5,7 @@ class MyQueue:
         
     def print(self):
         for i in range(len(self.stack1)):
-            print(self.stack1.value)
+            print(self.stack1[i])
             
     def enqueue(self, value):
         while self.stack1:
